@@ -9,5 +9,5 @@ Implementation of [Attention-over-Attention Neural Networks for Reading Comprehe
 
 ### dataset
 
-you`d better use the [People Daily & Children's Fairy Tale (CFT) ](https://arxiv.org/abs/1607.04423) to train the model, and you have to rewrite the preprocess.py to suit the project
+you`d better use the [People Daily & Children's Fairy Tale (CFT) ](https://github.com/ymcui/Chinese-RC-Dataset) to train the model, and you have to rewrite the preprocess.py to suit the project
  
