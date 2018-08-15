@@ -1,3 +1,5 @@
+# 请转至[QANet_dureader](https://github.com/SeanLee97/QANet_dureader)
+
 # chinese_reading_comprehension
 
 Implementation of [Attention-over-Attention Neural Networks for Reading Comprehension](https://arxiv.org/abs/1607.04423) for Chinese Reading Comprehension in pytorch
